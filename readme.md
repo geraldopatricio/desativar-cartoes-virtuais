@@ -20,22 +20,22 @@ execução do script Tenta bloquear para status=2, se bloquear, então muda est�
 Printa as urls das tentativas de bloqueio e estágio. 
 Saira no log caso bloqueado com sucesso => 
 Bloqueado => 11/03/2022 20:40:55;
-cartaoId: 6023399;
-idPessoa: 4086336;
-idConta: 2421129;
+cartaoId: 602XXXX;
+idPessoa: 408XXXX;
+idConta: 242XXXX;
 dataGeracao: 2022-03-10T10:42:07.623Z;
-nomeImpresso: ITALO LOPES
+nomeImpresso: ITALO XXXX
 
 ```
 
 ```bash
 Se mudar o estágio com sucesso: 
 Estagio mudado para 4 => 11/03/2022 20:40:55;
-cartaoId: 6023399;
-idPessoa: 4086336;
-idConta: 2421129;
+cartaoId: 602XXXX;
+idPessoa: 408XXXX;
+idConta: 242XXXX;
 dataGeracao: 2022-03-10T10:42:07.623Z;
-nomeImpresso: ITALO LOPES
+nomeImpresso: ITALO XXXX
 
 
 ```
